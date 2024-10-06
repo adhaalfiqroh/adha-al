@@ -1,0 +1,23 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+}
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #bdcee7;
+}
+
+.img-container {
+    width: 200px;
+    border-radius: 100px;
+}
+
+#project {
+    background-color: #bdcee7;
+}
+
+.footer {
+    background-color: #bdcee7;
+    color: #000000;
+}
